@@ -1,0 +1,86 @@
+[33mcommit eae90ad846dc78b43a0b327d55807cb62f486762[m[33m ([m[1;36mHEAD -> [m[1;32mteam[m[33m)[m
+Merge: dc730eb 71cd80e
+Author: SocialYard <thesocialyard2020@gmail.com>
+Date:   Tue Jun 1 22:13:09 2021 +0530
+
+     conflict fixed
+
+[33mcommit 71cd80ed3fdfdbcd23f413a7a2c9b16354ba33df[m[33m ([m[1;32mmaster[m[33m)[m
+Author: SocialYard <thesocialyard2020@gmail.com>
+Date:   Tue Jun 1 22:11:31 2021 +0530
+
+    update 2
+
+[33mcommit dc730eb865a5e580d35589960854b60379dd33d8[m
+Author: SocialYard <thesocialyard2020@gmail.com>
+Date:   Tue Jun 1 22:10:40 2021 +0530
+
+    update 1
+
+[33mcommit 6eae0506a9470ea4242376932f745a6858863075[m
+Merge: 26860d6 ffcd018
+Author: SocialYard <thesocialyard2020@gmail.com>
+Date:   Tue Jun 1 22:03:59 2021 +0530
+
+    Merge branch 'team'
+
+[33mcommit ffcd018f7b73db3ca3934c9f36c4c628dd9941a1[m
+Author: SocialYard <thesocialyard2020@gmail.com>
+Date:   Tue Jun 1 21:52:34 2021 +0530
+
+    updated css
+
+[33mcommit 26860d6f1609807abeaf0b63476c7c68bcaab936[m
+Author: SocialYard <thesocialyard2020@gmail.com>
+Date:   Tue Jun 1 21:49:45 2021 +0530
+
+    added h1 and h2
+
+[33mcommit 84a7ef29586c20fa108418baecd06a9da6055d75[m[33m ([m[1;35mrefs/stash[m[33m)[m
+Merge: 21d4dc9 79ded91
+Author: SocialYard <thesocialyard2020@gmail.com>
+Date:   Tue Jun 1 21:46:05 2021 +0530
+
+    WIP on master: 21d4dc9 added new css
+
+[33mcommit 79ded91141df66acdee596a8176139511a5e956f[m
+Author: SocialYard <thesocialyard2020@gmail.com>
+Date:   Tue Jun 1 21:46:05 2021 +0530
+
+    index on master: 21d4dc9 added new css
+
+[33mcommit 21d4dc94f6804dab65a9bb45a9f99b99deb8b9a1[m
+Author: SocialYard <thesocialyard2020@gmail.com>
+Date:   Tue Jun 1 21:27:59 2021 +0530
+
+    added new css
+
+[33mcommit 7c35deb5787d9bd822ec8ad71f260634899b240f[m
+Author: SocialYard <thesocialyard2020@gmail.com>
+Date:   Tue Jun 1 20:44:13 2021 +0530
+
+    changed the error in css
+
+[33mcommit c54671c17f49c29262df72a50afe961106f8aadd[m
+Author: SocialYard <thesocialyard2020@gmail.com>
+Date:   Tue Jun 1 20:43:22 2021 +0530
+
+    css added
+
+[33mcommit 9361e8a50c445a63147c75e34eaf2602c0220a16[m
+Author: SocialYard <thesocialyard2020@gmail.com>
+Date:   Tue Jun 1 20:42:22 2021 +0530
+
+    Css file added succesfully. earlier commit didnot add anything.
+
+[33mcommit 839adf97cb595e46bd87f21816c7f663bf55260f[m
+Author: SocialYard <thesocialyard2020@gmail.com>
+Date:   Tue Jun 1 20:39:37 2021 +0530
+
+    added a template to index.html
+
+[33mcommit 309e86bcd154eea75405ea82ff4a93559d499d56[m
+Author: SocialYard <thesocialyard2020@gmail.com>
+Date:   Tue Jun 1 20:37:47 2021 +0530
+
+    added the index file
